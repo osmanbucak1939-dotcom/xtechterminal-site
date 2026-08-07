@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64">
+  <g transform="translate(4,12)">
+    <line x1="20" y1="3" x2="20" y2="37" stroke="#B8862F" stroke-width="1.6" stroke-linecap="round" transform="rotate(45 20 20)"/>
+    <rect x="17" y="6" width="6" height="28" rx="2" fill="#B8862F" transform="rotate(45 20 20)"/>
+    <line x1="20" y1="3" x2="20" y2="37" stroke="#2E8158" stroke-width="1.6" stroke-linecap="round" transform="rotate(-45 20 20)"/>
+    <rect x="17" y="6" width="6" height="28" rx="2" fill="#2E8158" transform="rotate(-45 20 20)"/>
+  </g>
+  <text x="60" y="42" font-family="Space Grotesk, sans-serif" font-weight="700" font-size="30" letter-spacing="-0.5" fill="#0A0E14">XTechTerminal</text>
+</svg>
